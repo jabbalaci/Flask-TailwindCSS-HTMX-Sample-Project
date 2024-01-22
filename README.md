@@ -22,3 +22,5 @@ Open `http://127.0.0.1:5000` in your browser.
 * Flask: https://flask.palletsprojects.com
 * Tailwind CSS: https://tailwindcss.com
 * HTMX: https://htmx.org
+
+This repo belongs to [this YouTube video](https://www.youtube.com/watch?v=UNLPhGcAe2k) (in Hungarian).
